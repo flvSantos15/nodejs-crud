@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-start",
+  "version": "1.0.0",
+  "description": "primeiro projeto em nodejs 2022",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Flavio Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}

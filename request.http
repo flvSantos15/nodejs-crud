@@ -1,0 +1,27 @@
+POST http://localhost:4002/products
+content-type: application/json
+
+{
+  "name": "monitor",
+  "price": 750
+}
+###
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/47d9fcdb-e9b3-4fe7-b9ab-e03ac4fb0945
+
+###
+
+PUT http://localhost:4002/products/313bec77-eb4b-43bc-9050-fc5790cf5ff0
+content-type: application/json
+
+{
+  "name": "cadeira",
+  "price": 700
+}
+
+###
+DELETE http://localhost:4002/products/b741ae46-01d4-4d3c-921f-a5ba4769fb5d

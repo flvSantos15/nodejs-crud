@@ -1,0 +1,17 @@
+[
+  {
+    "name":"cadeira",
+    "price":800,
+    "id":"313bec77-eb4b-43bc-9050-fc5790cf5ff0"
+  },
+  {
+    "name":"notebook",
+    "price":1400,
+    "id":"2630603e-287c-49d0-902b-4cb763e11cdc"
+  },
+  {
+    "name":"monitor",
+    "price":750,
+    "id":"48a13def-f426-471d-82c8-e292b308210a"
+  }
+]
